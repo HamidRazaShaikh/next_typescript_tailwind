@@ -6,9 +6,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
+    "firebase": "^9.12.0",
     "next": "latest",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-icons": "^4.4.0",
+    "react-id-generator": "^3.0.2",
+    "react-redux": "^8.0.2"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
